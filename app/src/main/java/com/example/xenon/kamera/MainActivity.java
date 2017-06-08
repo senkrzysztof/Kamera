@@ -1,4 +1,4 @@
-package com.example.student.kamera;
+package com.example.xenon.kamera;
 
 import android.content.Intent;
 import android.net.Uri;
